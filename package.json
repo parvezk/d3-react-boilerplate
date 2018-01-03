@@ -1,0 +1,22 @@
+{
+  "name": "es6-webpack-boilerplate",
+  "version": "1.0.0",
+  "description": "A simple no non-sense Webpack bundler for JavaScript ES6 projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/parvezk/color-transformer.git"
+  },
+  "keywords": [
+    "rgb", "hsv", "hex", "hex-codes", "color", "color-conversion", "color-transform"
+  ],
+  "author": "Parvez Kose <flamboyanz@gmail.com> (https://www.parvez.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/parvezk/color-transformer/issues"
+  },
+  "homepage": "https://github.com/parvezk/color-transformer#readme"
+}
