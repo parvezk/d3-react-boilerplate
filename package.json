@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/parvezk/color-transformer.git"
+    "url": "https://github.com/parvezk/es6-webpack-boilerplate.git"
   },
   "keywords": [
     "rgb", "hsv", "hex", "hex-codes", "color", "color-conversion", "color-transform"
   ],
-  "author": "Parvez Kose <flamboyanz@gmail.com> (https://www.parvez.io/)",
+  "author": "Parvez Kose <flamboyanz@gmail.com> (https://www.parvezkose.com/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/parvezk/color-transformer/issues"
+    "url": "https://github.com/parvezk/es6-webpack-boilerplate/issues"
   },
-  "homepage": "https://github.com/parvezk/color-transformer#readme"
+  "homepage": "https://github.com/parvezk/es6-webpack-boilerplate#readme"
 }
