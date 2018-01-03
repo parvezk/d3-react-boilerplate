@@ -11,7 +11,7 @@
     "url": "https://github.com/parvezk/es6-webpack-boilerplate.git"
   },
   "keywords": [
-    "rgb", "hsv", "hex", "hex-codes", "color", "color-conversion", "color-transform"
+    "es6", "webpack", "boilerplate", "new-project"
   ],
   "author": "Parvez Kose <flamboyanz@gmail.com> (https://www.parvezkose.com/)",
   "license": "MIT",
