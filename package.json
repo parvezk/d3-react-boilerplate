@@ -1,22 +1,22 @@
 {
-  "name": "es6-webpack-boilerplate",
-  "version": "1.0.0",
-  "description": "A simple and lightweight Webpack bundler for ES6 projects",
+  "name": "d3-react-boilerplate",
+  "version": "0.0.1",
+  "description": "A simple project setup to get started building React based data visualization components using D3 v4.0",
   "main": "index.js",
   "scripts": {
     "test": "test"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/parvezk/es6-webpack-boilerplate.git"
+    "url": "https://github.com/parvezk/d3-react-boilerplate.git"
   },
   "keywords": [
-    "es6", "webpack", "boilerplate", "new-project"
+    "d3", "react", "es6", "webpack", "boilerplate"
   ],
   "author": "Parvez Kose <flamboyanz@gmail.com> (https://www.parvezkose.com/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/parvezk/es6-webpack-boilerplate/issues"
+    "url": "https://github.com/parvezk/d3-react-boilerplate.git/issues"
   },
-  "homepage": "https://github.com/parvezk/es6-webpack-boilerplate#readme"
+  "homepage": "https://github.com/parvezk/d3-react-boilerplate.git#readme"
 }
